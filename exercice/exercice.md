@@ -2,6 +2,12 @@
 
 ## Jeu du + -
 
+## Attendu
+
+Le script peut être fait en groupe et devra être envoyé à l'adresse `alexandre@marmelab.com` avant le 30 septembre 2022.
+Si votre projet comporte plusieurs scripts, vous les compresserez dans un .zip ou .tar.gz
+Le sujet devra être le suivant : IUT - ExoBash - Votre/VosNom(s)
+
 ### Niveau 1
 
 - Le jeu détermine un nombre aléatoire entre 1 et 9 grâce à la fonction suivante : ${RANDOM:0:2}
