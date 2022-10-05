@@ -10,7 +10,7 @@ Le sujet devra être le suivant : IUT - LP2 - ExoBash - Votre/VosNom(s)
 
 ### Niveau 1
 
-- Le jeu détermine un nombre aléatoire entre 1 et 9 grâce à la fonction suivante : ${RANDOM:0:2}
+- Le jeu détermine un nombre aléatoire entre 1 et 99 grâce à la fonction suivante : ${RANDOM:0:2}
 - Le jeu demande à l’utilisateur un nombre entre 1 et 99.
 - Le jeu retourne si le nombre saisi est plus petit ou plus grand que le nombre mystère
 - Temps que ce nombre n’est pas trouvé, le jeu continue de demander un nombre à l’utilisateur
