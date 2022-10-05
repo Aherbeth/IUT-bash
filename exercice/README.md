@@ -4,9 +4,9 @@
 
 ## Attendu
 
-Le script peut être fait en groupe et devra être envoyé à l'adresse `alexandre@marmelab.com` avant le 12 octobre 2022.
+Le script peut être fait en groupe et devra être envoyé à l'adresse `alexandre@marmelab.com` avant le 13 octobre 2022.
 Si votre projet comporte plusieurs scripts, vous les compresserez dans un .zip ou .tar.gz
-Le sujet devra être le suivant : IUT - ExoBash - Votre/VosNom(s)
+Le sujet devra être le suivant : IUT - LP2 - ExoBash - Votre/VosNom(s)
 
 ### Niveau 1
 
