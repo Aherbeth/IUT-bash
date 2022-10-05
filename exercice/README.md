@@ -38,7 +38,7 @@ Le sujet devra être le suivant : IUT - LP2 - ExoBash - Votre/VosNom(s)
 - Nombres maximums de scores enregistrés
 - Nombre maximum de caractères dans le nom du joueur
 
-### Niveau 6
+### Niveau 5
 
 - Gérer un système de difficultés
 - Sécurisez votre code en vérifiant les types d'entrées utilisateur
